@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NeaPchX2/Playback-X-HUB/main/Playback%20X%20Hub%20Service%20X%20V2.lua"))()
+game.Players.LocalPlayer:kick("Playback X Hub New Version To Discord \n https://discord.gg/6Y5tYHCMWC")
